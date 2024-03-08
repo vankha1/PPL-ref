@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(foo),[CallExpr(Id(foo),[NumLit(2.0)]),NumLit(5.0),CallExpr(Id(foo),[])])]))])

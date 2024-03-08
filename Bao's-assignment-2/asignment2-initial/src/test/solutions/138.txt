@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(Cavani, VoidType, [InheritOutParam(a, IntegerType), Param(b, StringType), Param(c, FloatType)], None, BlockStmt([BlockStmt([])]))
+])

@@ -1,0 +1,17 @@
+printBoolean(true);
+printFloat(3e-13);
+readFloat();
+printBoolean(true);
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+printBoolean(a < 30);
+printBoolean(isPrime);

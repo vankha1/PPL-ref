@@ -1,0 +1,6 @@
+func main()
+            begin
+                a <- a+1
+                writeNumber(a)
+            end
+            

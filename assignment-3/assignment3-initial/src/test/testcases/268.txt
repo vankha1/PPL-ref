@@ -1,0 +1,5 @@
+
+func main()
+begin
+    number arr[0, 0] <- [foo()[12], "abc", 2[0, 0]]
+end

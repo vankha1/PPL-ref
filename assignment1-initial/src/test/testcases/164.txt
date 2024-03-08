@@ -1,0 +1,13 @@
+func: function integer () {
+            continue;
+            do {
+        while (i + 1 == 2) {
+             x = 10;
+        }
+        if (n == 1) {
+            return 0;
+        } else {
+            break;
+        }
+    } while (i - 100);
+        }

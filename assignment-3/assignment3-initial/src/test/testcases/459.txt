@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            bool b
+            number a[5]
+            a <- [1,2,3,4,5]
+        end
+            

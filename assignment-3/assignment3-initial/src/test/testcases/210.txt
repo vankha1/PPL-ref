@@ -1,0 +1,11 @@
+
+func foo()
+
+
+## this is a comment
+
+
+## this is a comment
+
+
+goo()

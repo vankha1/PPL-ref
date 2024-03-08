@@ -1,0 +1,21 @@
+
+      
+    a: integer = 10;
+    b: boolean = true;
+
+    foo1:function integer(){
+        if b  return a;
+        else return -1;
+    }
+
+    foo2:function float(x: float){
+        if x > 0  return foo1() + x;
+        else return foo1() - x;
+    }
+
+    main:function void(){
+        writeFloat(foo2(-5));
+        writeFloat(foo2(5));
+    }
+ 
+        

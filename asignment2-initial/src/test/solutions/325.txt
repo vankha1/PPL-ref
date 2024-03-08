@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(hello),[]),Call(Id(good_boy),[]),Call(Id(are_you_ok),[])]))])

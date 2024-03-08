@@ -1,0 +1,6 @@
+number x <- 1
+        func main()
+            begin
+                x <- x+1
+            end
+        

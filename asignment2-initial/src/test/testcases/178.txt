@@ -1,0 +1,8 @@
+
+        number a <- funcion(10)
+        for i until i <= 10 by i + 1
+        begin
+            sum <- sum + i
+        end
+        writeString("I Love you")
+        

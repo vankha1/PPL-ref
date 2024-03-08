@@ -1,0 +1,5 @@
+func: function array[1] of integer () {
+            break;
+            if (true) a = 1 + 1;
+            else b = b;
+        }

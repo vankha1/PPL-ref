@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            for i until i<=5 by i+2
+            begin
+                printNumber("Yoooo!")
+            end
+        end
+        

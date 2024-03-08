@@ -1,0 +1,36 @@
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+printInteger(asvas[a[1],3]);

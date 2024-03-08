@@ -1,0 +1,25 @@
+
+      
+        var : auto = 5.5;
+            B : auto = 2;
+            func: function string(alpha : string, delta : integer){
+                if(B > 1){
+                    B = 0;
+                } else {
+                    B = 1;
+                }
+                i : integer;
+                for (i = 0, i < 5 , i + 1){
+                    var : auto = "def";
+                    c : auto = 12314;
+                    var = var :: "def";
+                    break;
+                    continue;
+                }
+                z : string;
+                return "Hello, World!";
+            }
+            main: function void(){}
+            
+ 
+        

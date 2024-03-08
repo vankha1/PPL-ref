@@ -1,0 +1,5 @@
+func integer (number a, string b)
+        begin
+            readString(123123)
+        end
+        

@@ -1,0 +1,11 @@
+printBoolean(isPrime);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+
+        printBoolean(isPrime(abc));
+
+readFloat();

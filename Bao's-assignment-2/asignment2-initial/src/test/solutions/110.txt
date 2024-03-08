@@ -1,0 +1,3 @@
+Program([
+	VarDecl(chatgpt, StringType, StringLit(uaalo))
+])

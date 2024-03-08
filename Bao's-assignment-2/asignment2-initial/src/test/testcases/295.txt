@@ -1,0 +1,28 @@
+printInteger(asvas[a[1],3]);
+printFloat(3e-13);
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+text:string = "Hello World!";
+/*asdasdads
+asfasfasf
+fafaasf*/
+x: integer = 0;
+        total: integer = 0;
+        do{
+            total  = total + x;
+            x = x  + 1;
+        }while(x < 10);
+    
+printInteger(asvas[a[1],3]);

@@ -1,0 +1,7 @@
+
+        func : function boolean ()
+        {
+            func();
+            if (true == a) return 0;
+        }
+        

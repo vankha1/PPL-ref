@@ -1,0 +1,5 @@
+
+func __bbb__()
+begin
+    number arr[] <- [[1], [1]]
+end

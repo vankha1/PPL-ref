@@ -1,0 +1,51 @@
+
+            func spiralPrint(number a[100, 100], number n, number m)
+            begin
+                number i <- -1
+                number k <- 0
+                var l <- 0
+                ## k - starting row index
+                ## m - ending row index
+                ## l - starting column index
+                ## n - ending column index
+                ## i - iterator
+                
+            
+                if ((k < m) and (l < n)) 
+                begin
+                    ## Print the first row
+                    for i until i < n by i+1 
+                    begin
+                        printString(a[k,i])
+                    end
+                    k <- k+1
+            
+                    ## Print the last column
+                    for i until i < m by i+1 
+                    begin
+                        printString(a[i,n-1])
+                    end
+                    n <- n-1
+            
+                    ## Print the last row from
+                    if (k < m) 
+                    begin
+                        for i until i >= l by i-1 
+                        begin
+                            printString(a[m-1,i])
+                        end
+                        m <- m-1
+                    end
+            
+                    ## Print the first column from
+                    if (l < n) 
+                    begin
+                        for i until i >= k by i-1 
+                        begin
+                            printString(a[i,l])
+                        end
+                        l <- l+1
+                    end
+                end
+            end
+        

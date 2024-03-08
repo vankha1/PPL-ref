@@ -1,0 +1,5 @@
+
+        a = 10;
+        func: function integer () {
+           if (true) 10;
+        }

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([If(BinaryOp(==,CallExpr(Id(is_easy),[StringLit(PPL)]),BooleanLit(True)),Block([Call(Id(printString),[StringLit(de the co a)])]),Block([Call(Id(printString),[StringLit(hoc lai di em)])]))]))])

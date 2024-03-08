@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(hello),[]),Call(Id(hello),[StringLit(Sang)]),Call(Id(hello),[StringLit(Sang),StringLit(Kha)]),Call(Id(hello),[CallExpr(Id(hello),[StringLit(Sang)]),StringLit(Kha)])]))])

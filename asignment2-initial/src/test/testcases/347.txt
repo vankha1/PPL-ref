@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            a[0] <- foo(1,2,"3")
+            a[1,2] <- omg(omg(1))
+            ez <- ez*2 + 6*(7-foo())
+        end
+        

@@ -1,0 +1,7 @@
+func: function void () {
+            do {
+                str: string = "I LOVE YOU";
+             
+            }
+            while (index == 1);
+        }

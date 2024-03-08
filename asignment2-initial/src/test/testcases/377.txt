@@ -1,0 +1,12 @@
+
+        number i <- 6
+        func main ()
+            begin
+                number x <- 7
+            end
+        number j <- 8
+        func foo ()
+            begin
+                number y <- 8
+            end
+        

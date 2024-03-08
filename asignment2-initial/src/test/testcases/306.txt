@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                a <- 1
+                b <- 1.1
+                c <- "c"
+                d <- false
+            end
+        

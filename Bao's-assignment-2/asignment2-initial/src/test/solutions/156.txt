@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, BooleanType, [], None, BlockStmt([IfStmt(BinExpr(>=, ArrayCell(a, [IntegerLit(10)]), IntegerLit(100)), IfStmt(BinExpr(==, ArrayCell(a, [IntegerLit(1), IntegerLit(1)]), IntegerLit(10)), CallStmt(printInteger, IntegerLit(1)), IfStmt(BinExpr(||, ArrayCell(a, [UnExpr(-, IntegerLit(1)), IntegerLit(10)]), BooleanLit(False)), AssignStmt(ArrayCell(b, [UnExpr(-, IntegerLit(1))]), IntegerLit(10)))))]))
+])

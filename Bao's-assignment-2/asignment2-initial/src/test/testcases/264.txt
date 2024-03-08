@@ -1,0 +1,13 @@
+printFloat(3e-13);
+/*asdasdads
+asfasfasf
+fafaasf*/
+printFloat(_arr[3,1,2,100]);
+printFloat(derc);
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}
+readBoolean();
+printString(text);

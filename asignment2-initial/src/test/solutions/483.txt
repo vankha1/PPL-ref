@@ -1,0 +1,1 @@
+Program([VarDecl(NumberType,Id(a),BinaryOp(+,CallExpr(Id(foo),[NumLit(2018.0)]),CallExpr(Id(goo),[NumLit(2018.0)])))])

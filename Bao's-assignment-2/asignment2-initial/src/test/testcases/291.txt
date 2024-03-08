@@ -1,0 +1,21 @@
+printFloat(derc);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+printFloat(derc);
+readInteger();
+readString();
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+
+
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}

@@ -1,0 +1,5 @@
+Program([
+	VarDecl(x, ArrayType([2], BooleanType))
+	VarDecl(x_Y_z, ArrayType([2], BooleanType))
+	VarDecl(_ADC, ArrayType([2], BooleanType))
+])

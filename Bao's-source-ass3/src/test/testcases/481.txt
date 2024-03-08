@@ -1,0 +1,24 @@
+
+      var : auto = true;
+            B : auto = 0;
+            func: function boolean(alpha : string, delta : integer){
+                if(B > 0){
+                    B = 0;
+                } else {
+                    B = 1;
+                }
+                i : integer;
+                for (i = 0, i < 5 , i + 1){
+                    var : auto = false;
+                    c : auto = 12314;
+                    var = var :: true;
+                    break;
+                    continue;
+                }
+                z : boolean;
+                return true;
+            }
+            main: function void(){}
+      
+ 
+        

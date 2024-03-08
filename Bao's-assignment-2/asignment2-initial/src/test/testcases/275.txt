@@ -1,0 +1,23 @@
+printFloat(3e-13);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+printBoolean(true);
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+text:string = "Hello World!";
+printBoolean(true);

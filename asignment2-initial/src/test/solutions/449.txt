@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo1),[VarDecl(NumberType,Id(a))],Block([Call(Id(super),[Id(x),Id(y),Id(z)])]))])

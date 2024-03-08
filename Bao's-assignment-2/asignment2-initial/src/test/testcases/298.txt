@@ -1,0 +1,20 @@
+printString("Heo Rey \n <3");
+printInteger(100);
+printBoolean(a < 30);
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+
+        printBoolean(isPrime(5));
+
+/*askanjbhbzjxclc*/
+/*asdasdads
+asfasfasf
+fafaasf*/

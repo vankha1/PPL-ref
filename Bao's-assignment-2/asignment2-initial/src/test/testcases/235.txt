@@ -1,0 +1,20 @@
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+printString(text);
+//commentdasdasd
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+readBoolean();

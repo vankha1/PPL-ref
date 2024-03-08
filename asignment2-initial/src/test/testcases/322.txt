@@ -1,0 +1,10 @@
+
+        func getTotal(number x, number y)
+        begin
+            return x+y
+        end
+        func main()
+        begin
+            number x <- getTotal(1,2)
+        end
+        

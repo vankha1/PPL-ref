@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            a <- -4
+            a <- --4
+            a <- not true
+            a <- b[5]
+        end
+        

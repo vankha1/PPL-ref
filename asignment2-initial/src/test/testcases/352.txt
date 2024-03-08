@@ -1,0 +1,7 @@
+
+        func main()
+        begin
+            if(happy) setHappy(true)
+            else setHappy(false)
+        end
+        

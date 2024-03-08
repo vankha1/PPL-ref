@@ -1,0 +1,26 @@
+readString();
+printBoolean(a < 30);
+readFloat();
+//commentdasdasd
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+printFloat(3e-13);

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(printNumber),[NumLit(4.0)])]))])

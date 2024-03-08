@@ -1,0 +1,5 @@
+
+func main()
+begin
+    dynamic arr <- [1, 2, 3]
+end

@@ -1,0 +1,5 @@
+func: function void () {
+            if (n == 1) a = true;
+            continue;
+            for (i = 0, i < 1, i - 1) a = b && true;
+        }

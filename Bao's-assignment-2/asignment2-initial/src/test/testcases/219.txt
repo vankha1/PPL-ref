@@ -1,0 +1,9 @@
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}
+
+    a: array [5] of integer = {1,2,3,4,5};
+
+printBoolean(true);

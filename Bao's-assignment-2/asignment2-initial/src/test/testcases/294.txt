@@ -1,0 +1,14 @@
+/*askanjbhbzjxclc*/
+printFloat(derc);
+/*askanjbhbzjxclc*/
+printString("Heo Rey \n <3");
+
+        printBoolean(isPrime(abc));
+
+printInteger(abc);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }

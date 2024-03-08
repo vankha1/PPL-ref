@@ -1,0 +1,9 @@
+func main ()
+        begin
+            number a
+            if (a>0)
+                for a  until a>0 by a-1
+                    if (a>5) print("a>5")
+                    else continue
+        end
+        

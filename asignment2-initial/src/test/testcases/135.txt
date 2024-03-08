@@ -1,0 +1,1 @@
+func Func_1 (number t, string z) begin end

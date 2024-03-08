@@ -1,0 +1,23 @@
+func main ()
+        begin
+            ## cond stmt
+            if (a>1)
+            begin
+                a <- 1
+            end
+            elif (a<1)
+            begin
+                a <- 0
+            end
+            else begin
+                a <- 0.5
+            end
+            ## iter stmt
+            if (a>0)
+            begin
+                a <- a*0.4
+                print(a)
+                if (a<1) break
+            end
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([VarDecl(NumberType,Id(k),NumLit(5.0)),For(Id(i),BinaryOp(<,Id(i),CallExpr(Id(getMax),[])),BinaryOp(+,Id(i),NumLit(1.0)),Call(Id(printNumber),[Id(i)]))]))])

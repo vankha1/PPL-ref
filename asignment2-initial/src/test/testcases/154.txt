@@ -1,0 +1,9 @@
+
+        func integer () 
+        begin
+            if (i==1)
+                a <- a + 1 
+            elif (i == 2) a <- a + 2
+            else a <- a + 3
+        end            
+        

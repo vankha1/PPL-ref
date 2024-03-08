@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            hello()
+            hello("Sang")
+            hello("Sang","Kha")
+            hello(hello("Sang"),"Kha")
+        end
+        

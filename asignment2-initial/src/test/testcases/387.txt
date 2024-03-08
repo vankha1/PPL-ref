@@ -1,0 +1,23 @@
+
+            func findDepthRec(number y[100], number n, number m)
+            begin
+                if ((index >= n) or (tree[index] == "l"))
+                    return 0
+            
+                ## calc height of left subtree (In preorder
+                ## left subtree is processed before right)
+                index <- index+1
+                number left <-  findDepthRec(tree, n, index)
+            
+                ## calc height of right subtree
+                index <- index+1
+                number right  <-  findDepthRec(tree, n, index)
+            
+                return max(left, right) + 1
+            end
+            func findDepth(number y[100], number n, number m)
+            begin
+                number index  <-  0
+                return findDepthRec(tree, n, index)
+            end
+        

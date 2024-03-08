@@ -1,0 +1,52 @@
+readFloat();
+printBoolean(asd[123]);
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}

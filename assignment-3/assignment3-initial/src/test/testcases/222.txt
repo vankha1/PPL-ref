@@ -1,0 +1,5 @@
+
+func test_exp()
+begin
+    number a[foo(), 1, b] <- [1, 2, 3]
+end

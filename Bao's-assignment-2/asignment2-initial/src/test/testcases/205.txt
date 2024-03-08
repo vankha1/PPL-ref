@@ -1,0 +1,9 @@
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}

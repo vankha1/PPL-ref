@@ -1,0 +1,6 @@
+
+func main()
+begin
+    number i, j, k
+    ## Not allowed in declaration
+end

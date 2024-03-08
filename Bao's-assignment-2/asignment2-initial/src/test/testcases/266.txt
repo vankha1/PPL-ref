@@ -1,0 +1,14 @@
+printInteger(100);
+/*askanjbhbzjxclc*/
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}
+printString("Heo Rey \n <3");
+/*askanjbhbzjxclc*/
+printInteger(100);

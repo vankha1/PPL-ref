@@ -1,0 +1,31 @@
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}
+printBoolean(a < 30);
+printFloat(_arr[3,1,2,100]);

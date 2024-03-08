@@ -1,0 +1,6 @@
+
+func test()
+begin
+    string s <- "abc'''''''\'"
+    string s <- "abc"
+end

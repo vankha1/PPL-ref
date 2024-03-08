@@ -1,0 +1,5 @@
+Program([
+	VarDecl(x, FloatType)
+	FuncDecl(dbs, IntegerType, [], dsa, BlockStmt([]))
+	FuncDecl(abc, IntegerType, [], abc, BlockStmt([AssignStmt(Id(x), IntegerLit(5))]))
+])

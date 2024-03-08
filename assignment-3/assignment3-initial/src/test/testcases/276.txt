@@ -1,0 +1,6 @@
+## If statement testing
+func main()
+begin
+    if ((5 < a) and (b < 10))
+        a <- b
+end

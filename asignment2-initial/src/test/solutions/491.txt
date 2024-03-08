@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[VarDecl(StringType,Id(a)),VarDecl(NumberType,Id(b))],Block([Return(BinaryOp(...,Id(a),ArrayCell(Id(a),[Id(b)])))]))])

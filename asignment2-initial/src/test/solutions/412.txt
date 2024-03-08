@@ -1,0 +1,1 @@
+Program([VarDecl(ArrayType([1],NumberType),Id(a),[NumLit(2.0)])])

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, ArrayType([1], BooleanType), [], None, BlockStmt([ContinueStmt(), BreakStmt(), CallStmt(printInteger, IntegerLit(1))]))
+])

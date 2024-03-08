@@ -1,0 +1,1 @@
+Program([VarDecl(var,Id(x),StringLit(vankha)),VarDecl(dynamic,Id(y))])

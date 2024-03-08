@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(f),[CallExpr(Id(f),[])]),Call(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[])])])])]),Call(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[])])])])]),CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[])])])])])])]))])

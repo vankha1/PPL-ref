@@ -1,0 +1,3 @@
+Program([
+	VarDecl(str, StringType, UnExpr(!, UnExpr(!, BinExpr(&&, Id(a), Id(B)))))
+])

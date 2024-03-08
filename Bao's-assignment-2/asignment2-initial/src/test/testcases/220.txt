@@ -1,0 +1,4 @@
+printBoolean(a < 30);
+printBoolean(a < 30);
+
+        printBoolean(isPrime(5));

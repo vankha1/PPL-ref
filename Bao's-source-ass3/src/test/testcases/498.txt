@@ -1,0 +1,13 @@
+
+      
+      a: integer = 0;
+    b: float = 1.0;
+    c: boolean = false;
+    d: string = "world";
+    e: array [5] of integer = {5, 4, 3, 2, 1};
+    f: array [2, 2] of boolean = {{false, true}, {true, false}};
+
+    x: integer = a + e[0] * 2;
+    y: float = b * x;
+ 
+        

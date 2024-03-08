@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([AssignStmt(Id(a),NumLit(1.1e+23)),AssignStmt(Id(a),NumLit(1.1e-23)),AssignStmt(Id(a),UnaryOp(-,NumLit(12.0)))]))])

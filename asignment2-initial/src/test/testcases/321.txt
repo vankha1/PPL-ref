@@ -1,0 +1,6 @@
+number x
+        func main()
+            begin
+                number x <- 2.0
+            end
+        

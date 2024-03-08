@@ -1,0 +1,15 @@
+printInteger(abc);
+printBoolean(true);
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+readString();
+printBoolean(asd[123]);
+printString("Heo Rey \n <3");

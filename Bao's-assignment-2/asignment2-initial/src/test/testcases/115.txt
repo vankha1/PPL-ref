@@ -1,0 +1,1 @@
+x, x_Y_z, _ADC: array[2] of boolean;

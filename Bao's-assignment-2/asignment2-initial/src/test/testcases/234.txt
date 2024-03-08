@@ -1,0 +1,10 @@
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+
+
+readString();
+readBoolean();
+printFloat(derc);
+printFloat(_arr[3,1,2,100]);

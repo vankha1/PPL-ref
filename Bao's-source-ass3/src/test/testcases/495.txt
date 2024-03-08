@@ -1,0 +1,14 @@
+
+         a: integer = 5;
+    b: float = 3.14;
+    c: boolean = true;
+    d: string = "hello";
+    e: array [5] of integer = {1, 2, 3, 4, 5};
+    f: array [2, 3] of boolean = {{true, false, true}, {false, true, false}};
+
+    x: integer = a + e[2] * 2;
+    y: float = b / x;
+  
+      
+ 
+        

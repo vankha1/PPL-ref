@@ -1,0 +1,6 @@
+printBoolean(asd[123]);
+readString();
+
+        printBoolean(isPrime(5));
+
+readString();

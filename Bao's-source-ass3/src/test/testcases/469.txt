@@ -1,0 +1,14 @@
+
+       foo1: function void() {
+            x: integer = 1;
+            y: float = 2.5;
+            return;
+        }
+
+        foo2: function integer(a: integer, b: integer) {
+            x: integer = a + b;
+            return x;
+        }
+      
+ 
+        

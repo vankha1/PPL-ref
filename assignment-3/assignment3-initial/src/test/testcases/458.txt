@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            bool b
+            number i
+            var v
+            v <- v
+        end
+            

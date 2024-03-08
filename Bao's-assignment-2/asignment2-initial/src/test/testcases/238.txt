@@ -1,0 +1,16 @@
+readBoolean();
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+
+
+/*asdasdads
+asfasfasf
+fafaasf*/
+printFloat(_arr[3,1,2,100]);

@@ -1,0 +1,9 @@
+func main()
+
+
+begin
+    if (a < b)  a <- b
+    elif (a > b) b <- a
+    elif (a = b) a <- b
+    else a <- b
+end

@@ -1,0 +1,4 @@
+func: function integer () {
+            /* sinh code moi */
+            preventDefault();
+        }

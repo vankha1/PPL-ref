@@ -1,0 +1,6 @@
+
+        func main()
+        begin
+            b <- a[1,2,3]
+        end
+        

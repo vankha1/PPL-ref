@@ -1,0 +1,25 @@
+
+      
+      
+   
+        test1 : function string(y : auto) {
+            y = 2; // line 2
+            if ( y ==2)
+            {
+                a: integer;
+                a=1;
+                return;
+                a=true;
+            }
+            else
+            {
+                b: integer;
+                return;
+                b="alo";
+            }
+            
+        }
+        main: function void () {
+            test1(true); // line 6
+        }
+        

@@ -1,0 +1,23 @@
+readString();
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+/*asdasdads
+asfasfasf
+fafaasf*/
+
+        printBoolean(isPrime(abc));
+
+printFloat(derc);
+printBoolean(isPrime);

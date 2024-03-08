@@ -1,0 +1,7 @@
+
+        func foo() begin end
+        func main()
+        begin
+            a[0] = 5
+        end
+            

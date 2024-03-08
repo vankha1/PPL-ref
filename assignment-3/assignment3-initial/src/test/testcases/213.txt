@@ -1,0 +1,6 @@
+
+func test_exp()
+begin
+    bool a <- not not not goo() not a not c not d not love
+    return a
+end

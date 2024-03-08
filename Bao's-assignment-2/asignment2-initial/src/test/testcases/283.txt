@@ -1,0 +1,11 @@
+printBoolean(true);
+readInteger();
+readInteger();
+
+        printBoolean(isPrime(5));
+
+printBoolean(isPrime);
+/*asdasdads
+asfasfasf
+fafaasf*/
+readBoolean();

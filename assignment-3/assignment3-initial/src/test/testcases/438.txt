@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            number a
+            string b
+            a <- a + b ## invalid
+        end
+            

@@ -1,0 +1,2 @@
+ var ducbinh <- "ducb" ... 1 ... "bin" 
+        

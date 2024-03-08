@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            
+        end
+        var a <- foo(1, 2)
+        func foo() return 1
+            

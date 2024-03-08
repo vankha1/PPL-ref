@@ -1,0 +1,12 @@
+
+        func main()
+        begin
+            if(is_easy("PPL")==true)
+                begin
+                    printString("de the co a")
+                end
+            else begin
+                    printString("hoc lai di em")
+                end
+        end
+        

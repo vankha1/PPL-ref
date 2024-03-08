@@ -1,0 +1,2 @@
+number a <- str[1]
+        

@@ -1,0 +1,12 @@
+printBoolean(a < 30);
+printInteger(abc);
+printBoolean(isPrime);
+/*askanjbhbzjxclc*/
+readInteger();
+x: integer = 0;
+        total: integer = 0;
+        do{
+            total  = total + x;
+            x = x  + 1;
+        }while(x < 10);
+    

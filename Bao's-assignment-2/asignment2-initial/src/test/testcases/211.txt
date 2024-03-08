@@ -1,0 +1,5 @@
+printBoolean(isPrime);
+
+        printBoolean(isPrime(5));
+
+readFloat();

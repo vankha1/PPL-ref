@@ -1,0 +1,13 @@
+
+        func main()
+        begin
+            begin
+            end
+            begin 
+                hello()
+            end
+            begin 
+                number a <- 1
+            end
+        end
+        

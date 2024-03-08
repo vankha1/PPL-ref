@@ -1,0 +1,6 @@
+
+        func main()
+        begin
+            a <- -7+6/3/2*3-4%2
+        end
+        

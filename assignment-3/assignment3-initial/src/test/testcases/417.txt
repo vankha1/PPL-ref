@@ -1,0 +1,3 @@
+func main() begin end
+            func foo (number foo) begin end
+            

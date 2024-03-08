@@ -1,0 +1,25 @@
+printBoolean(asd[123]);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+
+
+printBoolean(isPrime);
+printInteger(abc);
+//afanfafkkcmasdasd
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}

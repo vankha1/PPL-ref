@@ -1,0 +1,4 @@
+
+            var x <- "vankha"
+            dynamic y
+        

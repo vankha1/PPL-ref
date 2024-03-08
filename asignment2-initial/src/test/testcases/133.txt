@@ -1,0 +1,4 @@
+func array[10, 10] ()
+            begin
+            end
+        

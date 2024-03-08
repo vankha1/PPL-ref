@@ -1,0 +1,10 @@
+
+            func hello()
+            begin
+                printString("hello")
+            end
+            func one (number x)
+            begin
+                return 1
+            end
+        

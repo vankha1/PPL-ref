@@ -1,0 +1,43 @@
+printBoolean(asd[123]);
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+
+        isPrime: function boolean (x:integer){
+            for (i = 2, i < x/2,i + 1){
+                if (x % i == 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+readFloat();
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+x: integer = 0;
+        total: integer = 0;
+        do{
+            total  = total + x;
+            x = x  + 1;
+        }while(x < 10);
+    

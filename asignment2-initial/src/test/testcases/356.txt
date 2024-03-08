@@ -1,0 +1,10 @@
+
+        func main()
+        begin
+            if (a<5)
+            begin
+                printNumber(a)
+                a <- a+1
+            end
+        end
+        

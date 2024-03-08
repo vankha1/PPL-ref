@@ -1,0 +1,14 @@
+
+        printBoolean(isPrime(5));
+
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+
+
+printFloat(3e-13);
+printInteger(abc);
+printBoolean(true);
+printString(text);
+readBoolean();

@@ -1,0 +1,6 @@
+printNumbers: function integer (n: integer) {
+        for (i = 1, i <= n, i + 10) {
+          break;
+        }
+        }
+        

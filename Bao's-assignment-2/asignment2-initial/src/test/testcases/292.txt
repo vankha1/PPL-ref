@@ -1,0 +1,11 @@
+/*askanjbhbzjxclc*/
+
+        printBoolean(isPrime(5));
+
+text:string = "Hello World!";
+printString("Heo Rey \n <3");
+
+        printBoolean(isPrime(abc));
+
+readInteger();
+text:string = "Hello World!";

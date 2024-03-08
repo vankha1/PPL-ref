@@ -1,0 +1,8 @@
+func: function boolean () {
+            {}
+            do
+            {
+                a = 1 + 1;
+            }
+            while (n == 1);
+        }

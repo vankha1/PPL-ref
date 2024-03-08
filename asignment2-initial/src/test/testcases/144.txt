@@ -1,0 +1,6 @@
+func void ()
+            begin
+                if (n == 1) return 1
+                else break
+            end
+        

@@ -1,0 +1,7 @@
+
+        func: function integer () {
+            e: int;
+           
+            c = true * d / 20 ;
+         
+        }

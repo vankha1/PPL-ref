@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            a: number
+            b: string
+            ## a + b: Unknown a: number
+            a <- a + b
+        end
+            

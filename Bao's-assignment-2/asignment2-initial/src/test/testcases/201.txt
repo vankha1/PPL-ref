@@ -1,0 +1,8 @@
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    

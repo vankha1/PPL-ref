@@ -1,0 +1,10 @@
+
+      
+      
+      foo: function integer(a: integer, b: integer) {
+            x: integer = a + b;
+            return x;
+        }
+      
+ 
+        

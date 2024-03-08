@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[],Block([If(BinaryOp(<,Id(a),Id(b)),If(BinaryOp(<,Id(c),Id(d)),Call(Id(writeString),[StringLit(True)]),Call(Id(writeString),[StringLit(False)])))]))])

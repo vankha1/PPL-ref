@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, BooleanType, [Param(a, BooleanType), Param(b, FloatType)], None, BlockStmt([CallStmt(printBoolean, Id(a))]))
+])

@@ -1,0 +1,3 @@
+func: function float (out a: integer, b: float) {
+           a = a[1];
+        }

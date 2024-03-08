@@ -1,0 +1,7 @@
+
+        func vankha () 
+        begin
+            for i until i < 1 by -1 
+                break
+        end
+        

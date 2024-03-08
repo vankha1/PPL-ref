@@ -1,0 +1,3 @@
+Program([
+	VarDecl(rose, FloatType, ArrayCell(str, [IntegerLit(1)]))
+])

@@ -1,0 +1,6 @@
+func main()
+            begin
+                a <- 1.e23
+                b <- 10.21e2
+            end
+            

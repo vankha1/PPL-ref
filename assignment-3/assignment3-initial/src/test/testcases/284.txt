@@ -1,0 +1,3 @@
+## Return statement testing
+func main()
+    return isPrime(x)

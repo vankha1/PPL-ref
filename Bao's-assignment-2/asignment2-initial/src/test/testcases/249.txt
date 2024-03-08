@@ -1,0 +1,24 @@
+readString();
+printBoolean(isPrime);
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}
+printBoolean(isPrime);
+printFloat(derc);

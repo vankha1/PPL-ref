@@ -1,0 +1,3 @@
+func: function void () {
+            while (i && true) return _a + "uaalo";
+        }

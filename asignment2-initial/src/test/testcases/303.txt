@@ -1,0 +1,6 @@
+
+            number x <- 5
+            number y <- 5.5e5
+            string z <- "55"
+            bool t <- true
+        

@@ -1,0 +1,12 @@
+
+      
+       foo1: function void() {
+            foo2();
+            return;
+        }
+
+        foo2: function void() {
+            return;
+        }
+ 
+        

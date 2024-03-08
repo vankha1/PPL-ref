@@ -1,0 +1,2 @@
+func main()
+return (a > b) or (b > a)

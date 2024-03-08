@@ -1,0 +1,3 @@
+Program([
+	VarDecl(hate, ArrayType([1000], BooleanType))
+])

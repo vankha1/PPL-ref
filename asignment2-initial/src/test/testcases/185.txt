@@ -1,0 +1,9 @@
+ 
+        func calculateExpression(number n) ## test function prototype
+        
+           ## double result = 0.0;
+            ##for (int i = 1; i <= n; i++) {
+             ##   result <- (string) i / (i + 1)
+            ##}
+            ##return result;
+        

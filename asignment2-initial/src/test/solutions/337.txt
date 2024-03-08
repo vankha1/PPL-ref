@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([AssignStmt(Id(a),BinaryOp(or,BinaryOp(and,Id(a),Id(b)),BinaryOp(>=,Id(a),BinaryOp(and,Id(b),Id(b))))),AssignStmt(Id(a),BinaryOp(*,BinaryOp(+,Id(a),BinaryOp(-,UnaryOp(-,Id(b)),BinaryOp(*,Id(c),BinaryOp(+,Id(d),Id(e))))),NumLit(5.0))),AssignStmt(Id(a),BinaryOp(...,Id(a),BinaryOp(...,BinaryOp(...,Id(b),Id(c)),Id(d))))]))])

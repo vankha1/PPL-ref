@@ -1,0 +1,5 @@
+func main()
+            begin
+            a <- ["1",2,false,abc,abcd()]
+        end
+        

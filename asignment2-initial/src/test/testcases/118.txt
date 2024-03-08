@@ -1,0 +1,9 @@
+func name(number x, number y) 
+        begin
+        number a <- 2
+        number b <- 3.14
+        l[2] <- l[2] + 2
+        number l <- value * aPi
+        a[3 + foo(2)] <- a[b[2, 3]] + 4
+        end
+        

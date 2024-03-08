@@ -1,0 +1,16 @@
+printBoolean(asd[123]);
+printFloat(3e-13);
+printFloat(3e-13);
+x: integer = 0;
+        total: integer = 0;
+        do{
+            total  = total + x;
+            x = x  + 1;
+        }while(x < 10);
+    
+x: integer = 65;
+fact: function integer (n: integer) {
+if (n == 0) return 1;
+else return n * fact(n - 1);
+}
+printFloat(_arr[3,1,2,100]);

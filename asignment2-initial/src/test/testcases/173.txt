@@ -1,0 +1,6 @@
+
+        func boolean ()
+        begin
+            readBool()
+        end
+        

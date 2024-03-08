@@ -1,0 +1,6 @@
+func array[]() 
+        begin
+          
+               printFloat(12.1e45)
+        end
+        

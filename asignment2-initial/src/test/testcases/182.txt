@@ -1,0 +1,8 @@
+func reverseString(string str)
+        begin
+            n <- strlen(str)
+            for (i <- 0 until i < n / 2 by i + 1) 
+            begin
+                swap(str[i], str[n - i - 1])
+            end
+        

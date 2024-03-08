@@ -1,0 +1,5 @@
+func float (out a)
+        begin
+           a <- a[1]
+        end
+        

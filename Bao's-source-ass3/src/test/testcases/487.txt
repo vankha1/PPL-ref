@@ -1,0 +1,13 @@
+
+      
+      foo: function auto (inherit a: float, inherit b: integer)
+{
+    return a;
+}
+
+foo: function auto (c: integer, d: integer)
+{
+    return c + d;
+}
+ 
+        

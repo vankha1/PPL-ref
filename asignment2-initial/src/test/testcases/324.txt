@@ -1,0 +1,7 @@
+number x[2] <- [1,2]
+        func main()
+        begin
+            print(x)
+            return
+        end
+        

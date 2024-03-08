@@ -1,0 +1,8 @@
+
+            number a[5]
+            func check()
+            begin
+                printInteger(a[0])
+                printInteger(a[2])
+            end
+        

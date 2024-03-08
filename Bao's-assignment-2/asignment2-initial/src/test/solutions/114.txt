@@ -1,0 +1,5 @@
+Program([
+	VarDecl(Aee123, IntegerType, BinExpr(+, IntegerLit(1), IntegerLit(1)))
+	VarDecl(_aDC, IntegerType, BinExpr(*, IntegerLit(2), IntegerLit(1)))
+	VarDecl(A_bc, IntegerType, UnExpr(-, IntegerLit(1)))
+])

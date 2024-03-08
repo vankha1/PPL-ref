@@ -1,0 +1,10 @@
+
+        func main()
+        begin
+            number a <- 0
+            if (match(a)<10)
+                printNumber(a)
+            elif (match(a)*match(a)<69)
+                printNumber(10-a)
+        end
+        

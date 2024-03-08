@@ -1,0 +1,9 @@
+## If statement testing
+func main()
+begin
+    if (a > b)
+    
+    a <- b
+    elif (a < b)
+    b <- a
+end

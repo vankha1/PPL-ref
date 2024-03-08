@@ -1,0 +1,13 @@
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+printFloat(3e-13);
+printInteger(100);
+printString(text);
+printString(text);
+/*askanjbhbzjxclc*/
+printString("Heo Rey \n <3");

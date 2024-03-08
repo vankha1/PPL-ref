@@ -1,0 +1,7 @@
+
+        var a <- 5
+        func integer () 
+        begin
+           if (true) 10
+        end
+        

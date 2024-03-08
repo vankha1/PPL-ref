@@ -1,0 +1,10 @@
+func integer () 
+        begin
+            if (a + 1 and true)
+                if (a + 1 and true)
+                    if (a + 1 and true)
+                        if (a + 1 and true)
+                            if (a + 1 and true)
+                                continue
+        end
+        

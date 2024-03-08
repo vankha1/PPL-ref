@@ -1,0 +1,6 @@
+
+func test_exp()
+begin
+    number a <- b[]
+    return a
+end

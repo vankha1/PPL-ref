@@ -1,0 +1,11 @@
+
+        foo : function string(b : auto) inherit goo{
+            super("a");
+            return b;
+        }
+        goo : function string(inherit a : auto) {
+            printString(a);
+            foo("b");
+        }
+        main : function void() {}
+        

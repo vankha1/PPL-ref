@@ -1,0 +1,3 @@
+
+## this is test for simple predefine function
+func main(bool a_a_a[2, 0]) number a

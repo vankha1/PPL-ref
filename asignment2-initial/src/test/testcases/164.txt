@@ -1,0 +1,12 @@
+func integer ()
+        begin
+            continue
+            var i <- 0
+            for i until i >= 10 by 1
+                writeNumber(i)
+
+            if (n == 1)
+                return 0
+            else break
+        end
+        

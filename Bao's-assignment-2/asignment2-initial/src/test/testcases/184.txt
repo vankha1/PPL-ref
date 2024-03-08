@@ -1,0 +1,4 @@
+func: function float () {
+            func();
+            return expr;
+        }

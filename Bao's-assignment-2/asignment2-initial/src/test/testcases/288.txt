@@ -1,0 +1,23 @@
+printBoolean(isPrime);
+readInteger();
+printInteger(abc);
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}
+readBoolean();
+text:string = "Hello World!";
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}

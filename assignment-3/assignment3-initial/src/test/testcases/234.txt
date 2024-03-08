@@ -1,0 +1,5 @@
+func main(dynamic a) begin
+        a <- a + 1 / 2
+        a[1][2] <- 1
+        end
+        

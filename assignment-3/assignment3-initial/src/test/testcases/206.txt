@@ -1,0 +1,8 @@
+
+func test_expr()
+begin
+    string a <- "hello world"
+    string c <- "!"
+    string d <- "!"
+    return a ... c ... d
+end

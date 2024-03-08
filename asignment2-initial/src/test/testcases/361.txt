@@ -1,0 +1,12 @@
+
+        func main()
+        begin
+            for i until i<getMax() by i+1
+            begin
+                if (true)
+                begin
+                    print("kaka")
+                end
+            end
+        end
+        

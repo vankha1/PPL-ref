@@ -1,0 +1,7 @@
+
+        func void () 
+        begin
+            foo()
+            return not a
+        end
+        

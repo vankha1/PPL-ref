@@ -1,0 +1,18 @@
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+printBoolean(asd[123]);
+printFloat(_arr[3,1,2,100]);
+//commentdasdasd
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+readInteger();
+//afanfafkkcmasdasd

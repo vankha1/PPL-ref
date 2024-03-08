@@ -1,0 +1,9 @@
+printFloat(_arr[3,1,2,100]);
+printString("Heo Rey \n <3");
+x: integer = 0;
+        total: integer = 0;
+        do{
+            total  = total + x;
+            x = x  + 1;
+        }while(x < 10);
+    

@@ -1,0 +1,14 @@
+
+        func main()
+        begin
+            if(rich==true)
+            begin
+                if(nice==true)
+                begin
+                    setState("kind and rich")
+                end
+                else setState("unkind and rich")
+            end 
+            else setState("not rich")
+        end
+        

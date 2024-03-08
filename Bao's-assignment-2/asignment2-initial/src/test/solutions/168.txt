@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, FloatType, [OutParam(a, IntegerType), Param(b, FloatType)], None, BlockStmt([AssignStmt(Id(a), ArrayCell(a, [IntegerLit(1)]))]))
+])

@@ -1,0 +1,9 @@
+/*asdasdads
+asfasfasf
+fafaasf*/
+printInteger(abc);
+printString(text);
+readString();
+printBoolean(true);
+//commentdasdasd
+printString("Heo Rey \n <3");

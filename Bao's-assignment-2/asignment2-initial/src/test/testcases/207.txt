@@ -1,0 +1,5 @@
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+text:string = "Hello World!";

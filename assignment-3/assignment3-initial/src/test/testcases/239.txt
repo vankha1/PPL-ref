@@ -1,0 +1,7 @@
+
+func ______abc_____()
+begin
+    bool b <- false
+    number foo() <- [1, 2, 3]
+    return foo()
+end

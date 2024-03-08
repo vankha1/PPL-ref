@@ -1,0 +1,13 @@
+
+        func main()
+        begin
+            if(a)
+                begin
+                end
+            elif (b)
+                begin
+                end
+            else begin
+                end
+        end
+        

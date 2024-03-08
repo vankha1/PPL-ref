@@ -1,0 +1,10 @@
+func float ()
+        begin
+            float()
+            for i <- 1 until n by i 
+                i <- i + 1
+            return expr
+        end
+
+        c = expr
+        

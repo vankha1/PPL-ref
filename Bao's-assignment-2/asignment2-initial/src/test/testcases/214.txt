@@ -1,0 +1,6 @@
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+readString();
+printBoolean(asd[123]);

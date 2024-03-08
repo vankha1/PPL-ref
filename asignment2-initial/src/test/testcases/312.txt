@@ -1,0 +1,6 @@
+number x <- 1
+                    number y <- 2
+                    number z <- 3
+                string a
+                string b
+        

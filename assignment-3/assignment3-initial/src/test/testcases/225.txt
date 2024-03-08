@@ -1,0 +1,16 @@
+
+func main()
+begin
+    a <- "abc"
+    number b <- 1 * 2 - 3 % 5
+    begin
+        string c <- "'"
+        begin
+            string c <- "'""
+        end
+        begin
+            string c <- "\\"
+        end
+    end
+    return 23 > 43
+end

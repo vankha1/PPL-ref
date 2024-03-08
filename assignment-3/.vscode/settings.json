@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./assignment3-initial/src/main/mt22/utils",
+    "./assignment3-initial/target"
+  ]
+}

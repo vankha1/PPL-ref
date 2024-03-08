@@ -1,0 +1,6 @@
+printBoolean(asd[123]);
+printInteger(asvas[a[1],3]);
+printFloat(3e-13);
+readFloat();
+printString("Heo Rey \n <3");
+text:string = "Hello World!";

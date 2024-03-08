@@ -1,0 +1,5 @@
+func float ()
+        begin
+            readInteger()
+        end
+        

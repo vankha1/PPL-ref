@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([Call(Id(f),[BinaryOp(*,NumLit(1.0),Id(x)),Id(_123),BinaryOp(...,StringLit(sss),StringLit(aaa)),CallExpr(Id(dsa),[StringLit(dsa)]),BinaryOp(%,Id(x),NumLit(5.0))])]))])

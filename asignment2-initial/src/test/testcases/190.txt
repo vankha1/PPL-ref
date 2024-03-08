@@ -1,0 +1,11 @@
+dynamic a <- 65
+        func integer (string str)
+        begin
+            if (n == 0) return 1
+            else return n * fact(n - 1)
+        end
+        func void(number n,number delta)
+        begin
+            n <- n + delta
+        end
+       

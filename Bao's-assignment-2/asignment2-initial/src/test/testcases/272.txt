@@ -1,0 +1,22 @@
+
+        printBoolean(isPrime(abc));
+
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+printFloat(_arr[3,1,2,100]);
+printBoolean(a < 30);
+printInteger(abc);
+printString("Heo Rey \n <3");
+printString("Heo Rey \n <3");

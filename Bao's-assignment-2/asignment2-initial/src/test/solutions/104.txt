@@ -1,0 +1,3 @@
+Program([
+	VarDecl(x_Y_z, IntegerType)
+])

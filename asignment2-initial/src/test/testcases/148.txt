@@ -1,0 +1,9 @@
+
+        func void () 
+        begin
+            if (n >= 1) a <- true
+            continue
+            for i until i < 1 by -1 
+                a <- b and true
+        end
+        

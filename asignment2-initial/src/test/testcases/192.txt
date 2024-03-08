@@ -1,0 +1,9 @@
+
+            bool a <- true
+            bool b <- false
+            writeString(not a)
+            writeString(a and b)
+            writeString(a or b)
+            writeString(a==b)
+            writeString(a!=b)
+        

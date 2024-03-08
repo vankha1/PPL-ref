@@ -1,0 +1,6 @@
+
+func main()
+begin
+    2[0, 0] <- "abc"
+    return 2[0, 0]
+end

@@ -1,0 +1,1 @@
+Cavani: function void (inherit out a: integer, b: string, c: float) {{}}

@@ -1,0 +1,10 @@
+ 
+       
+                    func sumNumbers(string n)
+                    begin
+                        var sum <- 0
+                        var i <- 1
+                        foo(a[2], a[2,3,4])
+                        return sum
+                    end
+                

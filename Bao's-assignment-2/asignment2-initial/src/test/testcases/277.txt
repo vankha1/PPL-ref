@@ -1,0 +1,23 @@
+printInteger(asvas[a[1],3]);
+readInteger();
+printInteger(abc);
+readInteger();
+
+    a:integer = 100;
+    for (i = 0, i < a,i + 1){
+        for (j = 0, j < a,j + 1){
+            printInteger(i);
+            printString("---");
+            printInteger(j);
+            {
+                printString("Hello World! <3");
+            }
+        }
+        printString("abc \n");
+    }
+
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+printFloat(_arr[3,1,2,100]);

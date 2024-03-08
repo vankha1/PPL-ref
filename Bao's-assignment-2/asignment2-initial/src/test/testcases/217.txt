@@ -1,0 +1,5 @@
+printString(text);
+
+        printBoolean(isPrime(5));
+
+printFloat(derc);

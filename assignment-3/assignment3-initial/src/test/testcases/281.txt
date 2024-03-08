@@ -1,0 +1,3 @@
+## Function call statement testing
+func main()
+    return updateVer()

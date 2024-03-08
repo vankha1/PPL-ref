@@ -1,0 +1,15 @@
+func: function string () {
+            while ( i <= 1) 
+                {
+                    for (i = 0, v < 10, t + 1)
+                    {
+                    if (a == 1 ) 
+                    {
+                        a, b: integer;
+                    }
+                    
+                    a: integer = 10;
+                    }
+                    a: integer = 10;
+                }
+        }

@@ -1,0 +1,10 @@
+func: function integer () {
+            while (a < 10) {
+        for ( i = 0, i < 5, i - 100) {
+            while (i > 2) {
+                a = a[i];
+            }
+        }
+    }
+    return a;
+        }

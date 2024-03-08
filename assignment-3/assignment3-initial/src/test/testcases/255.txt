@@ -1,0 +1,20 @@
+
+func main()
+begin
+    number option
+    cin >> option
+    if (option = 1) cout << "Hello world"
+    elif (option = 2)
+    begin
+        string name
+        cin >> name
+        cout << "Hello " << name
+    end
+    else
+    begin
+        string name
+        number age
+        cin >> name >> age
+        cout << "Hello " << age << " years old " << name
+    end
+end

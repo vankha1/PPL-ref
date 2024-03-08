@@ -1,0 +1,6 @@
+//afanfafkkcmasdasd
+
+        printBoolean(isPrime(abc));
+
+readFloat();
+readFloat();

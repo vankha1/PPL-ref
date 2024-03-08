@@ -1,0 +1,24 @@
+
+      
+            var : auto = 3.14;
+            B : auto = 0;
+            func: function float(alpha : string, delta : integer)inherit foo{
+                
+              super(1,1);
+                i : integer;
+               
+                for (i = 0, i < 3 , i + 1){
+                 m: float;
+                    var: float = 100;
+                    c : auto = 12314;
+                    var = var + 2.5;
+                    break;
+                    continue;
+                }
+                z : float;
+                return 3.141592653589793;
+            }
+            foo: function void (inherit m: integer, n:integer){}
+            main: function void(){}
+ 
+        

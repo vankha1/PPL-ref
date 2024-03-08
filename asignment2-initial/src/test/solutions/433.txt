@@ -1,0 +1,1 @@
+Program([VarDecl(BoolType,Id(test_bool),BooleanLit(False))])

@@ -1,0 +1,7 @@
+
+        func main()
+        begin
+            hello(a)
+            good_boy(b,e)
+        end
+        

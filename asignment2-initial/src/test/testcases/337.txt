@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            a <- (a and b) or (a>=b and b)
+            a <- (a + (-b - c*(d+e)))*5
+            a <- a...((b...c)...d)
+        end
+        

@@ -1,0 +1,8 @@
+
+            string a <- "Hello"
+            string b <- "World"
+            func check()
+            begin
+                printString(a...b)
+            end
+        

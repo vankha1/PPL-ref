@@ -1,0 +1,3 @@
+Program([
+	VarDecl(love, StringType, StringLit(I LOVE YOU))
+])

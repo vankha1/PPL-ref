@@ -1,0 +1,10 @@
+
+        func main()
+        begin
+            a <- 1*b
+            a <- true and false
+            a <- a==b
+            a <- a!=b
+            a <- (a...b)
+        end
+        

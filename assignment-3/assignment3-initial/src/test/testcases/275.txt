@@ -1,0 +1,9 @@
+## If statement error testing
+func main()
+    begin
+    if (x ... y)
+    a <- b
+    else b <- a
+    else a <- b
+end
+        

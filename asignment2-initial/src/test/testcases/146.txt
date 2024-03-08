@@ -1,0 +1,7 @@
+func boolean () 
+        begin
+            continue
+            break
+            writeNumber(1)
+        end
+        

@@ -1,0 +1,3 @@
+
+        str func();
+        if (true == a) return 0;

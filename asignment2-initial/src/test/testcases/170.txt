@@ -1,0 +1,6 @@
+
+        func integer () 
+        begin
+            writeNumber("1+1")
+        end
+        

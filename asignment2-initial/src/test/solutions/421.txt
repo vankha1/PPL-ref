@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(goo),[VarDecl(NumberType,Id(a)),VarDecl(NumberType,Id(b))],Block([VarDecl(var,Id(c),BinaryOp(+,Id(a),BinaryOp(*,NumLit(2.0),Id(b)))),Call(Id(writeNumber),[Id(c)])])),FuncDecl(Id(main),[],Block([Call(Id(goo),[NumLit(3.0),NumLit(2.7)])]))])

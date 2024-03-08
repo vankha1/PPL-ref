@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([If(Id(happy),Call(Id(setHappy),[BooleanLit(True)]),Call(Id(setHappy),[BooleanLit(False)]))]))])

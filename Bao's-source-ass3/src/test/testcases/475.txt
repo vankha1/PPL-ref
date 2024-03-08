@@ -1,0 +1,25 @@
+
+      
+      var : auto = 100;
+            B : auto = -1;
+            func: function integer(alpha : string, delta : integer){
+                if(B > 0){
+                    B = 0;
+                } else {
+                    B = 1;
+                }
+                i : integer;
+                for (i = 0, i < 7 , i + 1){
+                    var : auto = 5.5;
+                    c : auto = 12314;
+                    var = var + 2.5;
+                    break;
+                    continue;
+                }
+                z : integer;
+                return 999;
+            }
+            main: function void(){}
+
+ 
+        

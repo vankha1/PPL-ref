@@ -1,0 +1,10 @@
+
+      
+      foo: function auto (inherit a: float, inherit b: integer)
+{
+    return a;
+}
+
+m: integer = foo(1,2);
+ 
+        

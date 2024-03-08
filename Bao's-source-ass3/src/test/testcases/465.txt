@@ -1,0 +1,12 @@
+
+      
+      
+ foo1: function integer(a: integer, b: integer) {
+            return a + b;
+        }
+
+        foo2: function integer(a: integer, b: integer) {
+            x: integer = foo1(a, b);
+            return x;
+        }
+        

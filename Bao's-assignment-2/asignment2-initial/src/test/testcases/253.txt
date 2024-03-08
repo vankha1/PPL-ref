@@ -1,0 +1,8 @@
+readString();
+printString(text);
+
+        printBoolean(isPrime(abc));
+
+printBoolean(a < 30);
+printInteger(asvas[a[1],3]);
+printString(text);

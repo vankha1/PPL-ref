@@ -1,0 +1,11 @@
+
+      
+      
+ foo1: function auto (c: integer, d: integer) inherit foo
+{
+    if (b == 1) return 1;
+    a = 1;
+    a = a+b;
+    return foo(2.0,3);
+} 
+        

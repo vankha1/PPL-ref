@@ -1,0 +1,1 @@
+Program([VarDecl(BoolType,Id(a),BooleanLit(True)),VarDecl(BoolType,Id(b),BooleanLit(False)),VarDecl(BoolType,Id(c),BooleanLit(True))])

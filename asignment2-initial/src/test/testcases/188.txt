@@ -1,0 +1,8 @@
+##khai bao bien
+        func printNumbers (number n)
+        begin
+            for i until i <= n by i + 10
+            begin
+                break
+            end
+        

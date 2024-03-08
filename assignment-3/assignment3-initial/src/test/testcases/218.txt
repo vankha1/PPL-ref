@@ -1,0 +1,8 @@
+
+func test_exp()
+begin
+    number a[3] <- [1, 2, 3]
+    number b[3] <- [2, 3, 4]
+    number c[2] <- [a, b]
+    number d <- c[0][0]
+end

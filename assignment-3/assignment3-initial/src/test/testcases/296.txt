@@ -1,0 +1,9 @@
+ func main(bool haha[2])
+            begin
+                bool upToYou= - - - (not (-(not a[1+3%4,a<3,function(a+2)])))
+                return toYou
+                return toMe
+                return home
+                bool haha[hihi]
+            end
+                    

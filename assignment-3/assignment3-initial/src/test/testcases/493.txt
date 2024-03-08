@@ -1,0 +1,9 @@
+
+        func x() return
+        func main()
+        begin
+            number a[2, 3]
+            number b[3]  <- a[0]
+            number c[5] <- a[0]
+        end
+            

@@ -1,0 +1,13 @@
+
+            func mergeSort (number y[100], number n, number m)
+            begin
+                if (m > n)
+                    return 
+                ## Returns recursively
+            
+                var mid <- m + (n - m) / 2
+                mergeSort(arr, m, mid)
+                mergeSort(arr, mid + 1, n)
+                merge(arr, m, mid, n)
+            end
+        

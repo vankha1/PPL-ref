@@ -1,0 +1,16 @@
+printBoolean(a < 30);
+printInteger(abc);
+printBoolean(a < 30);
+/*asdasdads
+asfasfasf
+fafaasf*/
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }

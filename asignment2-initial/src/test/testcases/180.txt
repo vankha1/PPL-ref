@@ -1,0 +1,4 @@
+
+        string function()
+        if (true == a) return 0
+        

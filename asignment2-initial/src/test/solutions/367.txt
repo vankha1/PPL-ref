@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(hello),[],Block([Call(Id(printString),[StringLit(hello)])])),FuncDecl(Id(one),[VarDecl(NumberType,Id(x))],Block([Return(NumLit(1.0))]))])

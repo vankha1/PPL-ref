@@ -1,0 +1,26 @@
+  
+
+quadratic: function void (a: float, b: float, c: float) {
+            delta = b * b - 4 * a * c;
+            if (delta < 0) {
+                printString("The equation has no real roots.");
+            } else if (delta == 0) {
+                root = -b / (2 * a);
+                printString("The equation has one real root: ", root);
+            } else {
+                root1 = (-b + sqrt(delta)) / (2 * a);
+                root2 = (-b - sqrt(delta)) / (2 * a);
+                printString("The equation has two real roots: ", root1, " and ", root2);
+            }
+        }
+
+        main: function void () {
+            a = 2;
+            b = 5;
+            c = -3;
+            quadratic(a, b, c);
+        }
+        
+   
+ 
+         

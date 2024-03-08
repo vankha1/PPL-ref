@@ -1,0 +1,3 @@
+## Function call statement testing error
+func main()
+    return printString(a b)

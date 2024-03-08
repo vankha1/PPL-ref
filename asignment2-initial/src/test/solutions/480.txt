@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo1),[VarDecl(NumberType,Id(N)),VarDecl(NumberType,Id(i))],Block([AssignStmt(Id(N),BinaryOp(*,Id(N),Id(i)))])),FuncDecl(Id(main),[],Block([VarDecl(NumberType,Id(N),NumLit(2018.0)),Call(Id(foo1),[Id(N),NumLit(3.0)]),Call(Id(writeNumber),[Id(N)])]))])

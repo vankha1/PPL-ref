@@ -1,0 +1,19 @@
+printBoolean(asd[123]);
+
+    a: array [5] of integer = {1,2,3,4,5};
+
+x: integer = 65;
+main: function void () {
+    while(true){
+        isPrime:boolean = false;
+        if (isPrime && abc){
+            return;
+        }
+    }
+}
+printBoolean(true);
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+readFloat();

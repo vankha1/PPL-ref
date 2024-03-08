@@ -1,0 +1,13 @@
+
+        func main()
+        begin
+            for i until i<2 by i+1
+            begin
+                if(i==t)
+                    break
+                elif(i<0)
+                    continue
+                else printNumber(i)
+            end
+        end
+        

@@ -1,0 +1,5 @@
+func integer (var a, string x) 
+        begin
+           readFloat(1e10)
+        end
+        

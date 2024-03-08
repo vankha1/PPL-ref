@@ -1,0 +1,6 @@
+
+        func main()
+        begin
+            a <- (-a + not b) * e[6] and b  >= 6
+        end
+        

@@ -1,0 +1,9 @@
+
+        func void ()
+        begin    
+            for a until a >= 10 by 1
+            begin
+                "something"
+            end
+        end
+        

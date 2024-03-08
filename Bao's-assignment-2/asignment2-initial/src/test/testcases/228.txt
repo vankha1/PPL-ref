@@ -1,0 +1,4 @@
+printBoolean(a < 30);
+printBoolean(true);
+printBoolean(asd[123]);
+printBoolean(asd[123]);

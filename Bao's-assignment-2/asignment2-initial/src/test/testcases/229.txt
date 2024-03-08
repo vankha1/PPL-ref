@@ -1,0 +1,4 @@
+readInteger();
+printInteger(100);
+printBoolean(a < 30);
+printFloat(_arr[3,1,2,100]);

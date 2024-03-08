@@ -1,0 +1,5 @@
+
+func __ccc__()
+begin
+    number arr[-2, "a", true, false, a not c] <- [1, 2, 3]
+end

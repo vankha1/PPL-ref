@@ -1,0 +1,12 @@
+
+        func main()
+        begin
+            number a <- 2
+            string b <- "2.1"
+            a <- foo(b,a) + 2
+        end
+        func foo(number a, string b)
+        begin
+            return a+b
+        end
+            

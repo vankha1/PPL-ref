@@ -1,0 +1,27 @@
+
+    a: array [5] of integer = {1,2,3,4,5};
+
+printString(text);
+/*askanjbhbzjxclc*/
+
+    a: function void(){
+        if (true){
+            r, s: integer;
+            r = 2.0;
+            a, b: array [5] of integer;
+            s = r * r * myPI;
+            a[0] = s;
+        }
+    }
+
+
+    a: array [5] of integer = {1,2,3,4,5};
+
+
+        printBoolean(isPrime(abc));
+
+
+    a:string = "Hello";
+    b:string = "World";
+    printString((a::c)::b);
+

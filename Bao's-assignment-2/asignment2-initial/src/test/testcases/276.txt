@@ -1,0 +1,17 @@
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+printBoolean(true);
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+printBoolean(true);
+printString(text);
+readInteger();
+
+        printBoolean(isPrime(5));

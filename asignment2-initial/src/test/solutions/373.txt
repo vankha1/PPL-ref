@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(integer),[],Block([Break,If(BooleanLit(True),AssignStmt(Id(a),BinaryOp(+,NumLit(1.0),NumLit(1.0))),AssignStmt(Id(b),Id(b)))]))])

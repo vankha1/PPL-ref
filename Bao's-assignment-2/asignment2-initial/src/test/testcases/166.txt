@@ -1,0 +1,15 @@
+func: function integer () {
+           do {
+        while (b % 2 == 0) {
+            b = b / 2;
+        }
+        for ( i = 0, i < 3, i - a) {
+            if (i == b) {
+                continue;
+            } else {
+                b = 1;
+            }
+        }
+    } while (b > 0);
+    return b;
+        }

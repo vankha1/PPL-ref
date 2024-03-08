@@ -1,0 +1,14 @@
+
+func buildHouse()
+begin
+    number width <- readNumber()
+    number length <- readNumber()
+    number budget <- readNumber()
+    print("Starting building house")
+    print("Creating strong base")
+    print("Buying brick, cement and hiring labours")
+    print("Working on materials")
+    print("Completing the house, cleaning dirt")
+    print("Decorating the house")
+    print("Having fun with new house")
+end

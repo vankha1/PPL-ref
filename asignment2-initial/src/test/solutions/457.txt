@@ -1,0 +1,1 @@
+Program([VarDecl(ArrayType([4],NumberType),Id(a)),FuncDecl(Id(main),[],Block([VarDecl(NumberType,Id(i)),For(Id(i),BinaryOp(>=,Id(i),NumLit(4.0)),NumLit(1.0),Block([AssignStmt(ArrayCell(Id(a),[Id(i)]),CallExpr(Id(readNumber),[])),Call(Id(writeNumber),[ArrayCell(Id(a),[Id(i)])])]))]))])

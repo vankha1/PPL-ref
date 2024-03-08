@@ -1,0 +1,6 @@
+
+func test()
+begin
+    string s <- "abc\i"
+    string s <- "abc"
+end

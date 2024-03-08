@@ -1,0 +1,6 @@
+func main() begin end
+            func foo (number a)
+            begin
+                bool a
+            end
+            

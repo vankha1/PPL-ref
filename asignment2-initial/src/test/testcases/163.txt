@@ -1,0 +1,12 @@
+func boolean () 
+        begin
+            break
+            ## error
+            dynamic i <- 2
+            for i until i <= 10 by i + 1
+                begin
+                    i <- i + 1
+                    foo(a + 2)
+                end
+        end
+        

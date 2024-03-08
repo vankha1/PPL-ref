@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, BooleanType, [], None, BlockStmt([CallStmt(func, ), IfStmt(BinExpr(==, BooleanLit(True), Id(a)), ReturnStmt(IntegerLit(0)))]))
+])

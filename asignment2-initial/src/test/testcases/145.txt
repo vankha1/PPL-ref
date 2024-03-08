@@ -1,0 +1,6 @@
+
+            func integer ()
+            begin
+                a[1] <- true and false and not a > 1
+            end
+        

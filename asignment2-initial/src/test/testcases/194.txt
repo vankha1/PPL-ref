@@ -1,0 +1,13 @@
+
+            number a <- 5.e121
+            number b <- -12.0
+            func check()
+            begin
+            printBoolean(a>b)
+            printBoolean(a>=b)
+            printBoolean(a<b)
+            printBoolean(a<=b)
+            printBoolean(a!=b)
+            printBoolean(a==b)
+            end
+        

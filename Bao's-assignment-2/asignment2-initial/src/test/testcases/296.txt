@@ -1,0 +1,17 @@
+/*askanjbhbzjxclc*/
+//commentdasdasd
+printInteger(100);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }
+readInteger();
+printFloat(_arr[3,1,2,100]);
+x: string = "abcba";
+        main: function void () {
+            while(true){
+                printString(x);
+            }
+        }

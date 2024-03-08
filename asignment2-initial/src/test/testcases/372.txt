@@ -1,0 +1,9 @@
+
+        func main()
+        begin   
+            var i <- 5
+            for i until i<5 by i+1 
+                begin 
+                end
+        end
+        

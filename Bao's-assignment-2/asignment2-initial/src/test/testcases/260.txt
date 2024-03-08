@@ -1,0 +1,14 @@
+printBoolean(true);
+/*askanjbhbzjxclc*/
+/*asdasdads
+asfasfasf
+fafaasf*/
+printString("Heo Rey \n <3");
+arr : array [10] of integer;
+        x:integer = 0;
+        for (i = 0, i < 10,i + 1){
+            x = x + arr[i];
+        }
+        printInteger(x);
+    
+readInteger();

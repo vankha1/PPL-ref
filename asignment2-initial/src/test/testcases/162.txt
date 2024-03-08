@@ -1,0 +1,6 @@
+
+        func integer ()
+        begin
+            # error
+        end
+        

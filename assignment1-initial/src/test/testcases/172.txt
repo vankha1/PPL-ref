@@ -1,0 +1,3 @@
+func: function integer () {
+           readFloat(1e10);
+        }

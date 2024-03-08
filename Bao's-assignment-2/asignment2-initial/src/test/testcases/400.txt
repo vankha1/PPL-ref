@@ -1,0 +1,5 @@
+foo: function integer (a: integer) {
+            ab[3]={"hello", "see you later"};
+            a: integer = {abce, 123} - {"haha"};
+        }
+        

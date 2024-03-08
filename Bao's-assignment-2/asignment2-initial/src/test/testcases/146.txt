@@ -1,0 +1,5 @@
+func: function array[1] of boolean () {
+            continue;
+            break;
+            printInteger(1);
+        }

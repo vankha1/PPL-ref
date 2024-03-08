@@ -1,0 +1,25 @@
+
+      
+      
+     a: integer = 10;
+    b: boolean = true;
+
+    foo1:function integer(){
+        if b  return a;
+        else return -1;
+    }
+
+    foo2:function float(x: float){
+        if x > 0  return foo1() + x;
+        else return foo1() - x;
+    }
+
+    main:function void(){
+         i: integer;
+        for (i = 0,i <a, i+ 1)
+         {
+         printFloat(foo2(i-5));
+         } 
+            
+    }
+        

@@ -1,0 +1,10 @@
+readFloat();
+printBoolean(a < 30);
+/*askanjbhbzjxclc*/
+printFloat(derc);
+printString("Nhap so a: ");
+        x: integer = readInteger();
+        printString("So b vua nhap la: "::x);
+    
+printBoolean(asd[123]);
+readFloat();

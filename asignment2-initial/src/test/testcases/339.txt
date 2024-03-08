@@ -1,0 +1,7 @@
+
+        func main()
+        begin
+            a <- b and c or d
+            a <- b or c and d
+        end
+        

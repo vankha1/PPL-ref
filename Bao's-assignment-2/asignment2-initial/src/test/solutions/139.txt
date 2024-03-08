@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(MPAPE_10, IntegerType, [], None, BlockStmt([]))
+])

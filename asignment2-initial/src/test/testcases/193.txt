@@ -1,0 +1,20 @@
+
+            number a <- 5.e121
+            number b <- -12.0
+            number c <- 1234e-12
+            number d <- -5678.5e+2
+            func check()
+            begin
+                printInteger(a+b)
+                printInteger(a-b)
+                printInteger(a*b)
+                printInteger(a/b)
+                printInteger(a%b)
+                
+                printInteger(c+d)
+                printInteger(c-d)
+                printInteger(c*d)
+                printInteger(c/d)
+                printInteger(c%d)
+            end
+        

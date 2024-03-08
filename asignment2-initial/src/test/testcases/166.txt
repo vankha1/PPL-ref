@@ -1,0 +1,23 @@
+func integer ()
+        begin
+           begin
+        begin
+            b <- b / 2
+        end
+
+        for i until i < 3 by i - a
+        begin
+            if (i == b)
+            begin
+                continue
+            end
+             else begin
+                b <- 1
+            end
+
+        end
+
+            end
+            return b
+        end
+        

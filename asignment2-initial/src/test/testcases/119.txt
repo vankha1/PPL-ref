@@ -1,0 +1,10 @@
+func foo(number a, string b)
+        begin
+            var i <- 0
+            for i until i <= 5 by i
+                begin
+                a[i] <- a[i] + 2
+                end
+            return a
+        end
+        

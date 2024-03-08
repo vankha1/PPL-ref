@@ -1,0 +1,1 @@
+_Func: function array[10, 10] of string () {}

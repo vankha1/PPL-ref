@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            a <- a*b*c + a/b/c
+            a <- a + b%c + d
+            a <- a and b or a
+        end
+        

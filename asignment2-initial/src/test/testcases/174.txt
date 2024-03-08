@@ -1,0 +1,6 @@
+
+        func boolean (bool a)
+        begin
+            write(a[1,2,3], 123)   
+        end
+        

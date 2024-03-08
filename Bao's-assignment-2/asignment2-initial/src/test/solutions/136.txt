@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(Siuuuuuuuuu_A7, AutoType, [], None, BlockStmt([BlockStmt([])]))
+])

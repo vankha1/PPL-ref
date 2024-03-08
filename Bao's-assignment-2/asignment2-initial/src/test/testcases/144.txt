@@ -1,0 +1,4 @@
+func: function integer () {
+            if (n == 1) return 1;
+            else break;     
+            }

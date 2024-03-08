@@ -1,0 +1,9 @@
+
+        func main()
+        begin   
+            begin
+                for i until v < 10 by 1
+                    return a
+            end
+        end
+        

@@ -1,0 +1,1 @@
+hate: array[1000] of boolean;

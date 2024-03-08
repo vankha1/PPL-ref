@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            a: number
+            b: number
+            ## number -> number:OK
+            b <- a
+        end
+            

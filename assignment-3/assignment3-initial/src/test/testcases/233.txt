@@ -1,0 +1,5 @@
+
+func main(number a, string s, number foo()[1, 2])
+begin
+    print("Not allowed in parameter list")
+end

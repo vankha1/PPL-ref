@@ -1,0 +1,20 @@
+dynamic x <- 65
+        
+            func fact (number n)
+            begin
+                if(n==0) return true
+                else return n*fact(n-1)
+            end
+            
+            func inc (number n, number delta)
+            begin
+                n <- n+delta
+            end
+            
+            func main ()
+            begin
+                var delta <- fact(3)
+                inc(x,delta)
+                writeString(x)
+            end
+        

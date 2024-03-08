@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            hello(1)
+            good_boy("Sang","Kha")
+            are_you_ok(true)
+        end
+        

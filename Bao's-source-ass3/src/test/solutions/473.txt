@@ -1,0 +1,1 @@
+Type mismatch in statement: ForStmt(AssignStmt(Id(i), IntegerLit(0)), BinExpr(<, Id(i), IntegerLit(5)), BinExpr(+, Id(i), IntegerLit(1)), BlockStmt([VarDecl(var, AutoType, StringLit(def)), VarDecl(c, AutoType, IntegerLit(12314)), AssignStmt(Id(var), BinExpr(::, Id(var), StringLit(def))), BreakStmt(), ContinueStmt()]))

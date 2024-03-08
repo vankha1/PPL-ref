@@ -1,0 +1,9 @@
+func main()
+begin
+    var i <- 0
+    for i until i > 10 by 1
+    begin
+        if (i = 5) continue
+        print(i)
+    end
+end

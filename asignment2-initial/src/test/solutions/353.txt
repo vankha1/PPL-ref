@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],Block([If(BinaryOp(==,Id(rich),BooleanLit(True)),If(BinaryOp(==,Id(nice),BooleanLit(True)),Call(Id(setState),[StringLit(kind and rich)]),Call(Id(setState),[StringLit(unkind and rich)])),Call(Id(setState),[StringLit(not rich)]))]))])
